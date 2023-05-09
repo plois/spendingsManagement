@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/summary_menu_item"
+        android:title="@string/menu_summary"
+        android:icon="@android:drawable/ic_input_add"/>
+    <item android:id="@+id/pie_chart_menu_item"
+        android:title="@string/menu_pie"
+        android:icon="@android:drawable/ic_input_add"/>
+    <item android:id="@+id/bar_chart_menu_item"
+        android:title="@string/menu_bar"
+        android:icon="@android:drawable/ic_input_add"/>
+    <item android:id="@+id/list_view_menu_item"
+        android:title="@string/menu_list"
+        android:icon="@android:drawable/ic_input_add"/>
+</menu>
